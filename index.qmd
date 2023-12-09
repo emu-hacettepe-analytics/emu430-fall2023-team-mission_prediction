@@ -1,5 +1,5 @@
 ---
-title: "Team XXX"
+title: "Mission Prediction"
 sidebar: false 
 ---
 
@@ -11,14 +11,22 @@ This is our template.
 
 # Team Members
 
-1.  [Edin_Džeko](https://tr.wikipedia.org/wiki/Edin_D%C5%BEeko)
+1.  \[Samet Berkant Özdemir\] (<https://github.com/berkanttozdemir>)
 
-2.  [Dušan Tadić](https://tr.wikipedia.org/wiki/Du%C5%A1an_Tadi%C4%87)
-
-3.  [Frederico Rodrigues de Paula Santos](https://tr.wikipedia.org/wiki/Fred_(1993_do%C4%9Fumlu_futbolcu))
-
-4.  [Sebastian Szymański](https://tr.wikipedia.org/wiki/Sebastian_Szyma%C5%84ski)
+2.  \[Sümeyye Başkut\] (<https://github.com/sumeyyebaskut>)
 
 # Project Topic
 
+Analysis results of 7.5 magnitude earthquake scenario in Istanbul
+
+The looming Istanbul earthquake and its potential impact are of utmost concern. Istanbul's location on active fault lines raises significant risks to infrastructure and lives. Anticipating and preparing for this event's repercussions are crucial to protect lives and ensure the city's resilience.
+
+The analysis results of the 7.5 magnitude earthquake scenario in Istanbul serve as a vital resource for local authorities, emergency responders, and urban planners. The findings can inform proactive measures to minimize potential damage, enhance the city's resilience, and ensure the safety and well-being of the population in the face of a seismic event.
+
+This analysis serves as a cornerstone for city planners, emergency response teams, and local communities, providing invaluable insights to mitigate risks and enhance preparedness.
+
 # Data Set
+
+\[Data Set : Analysis results of 7.5 magnitude earthquake scenario in Istanbul\]
+
+(<https://data.ibb.gov.tr/dataset/c13514d9-86b1-4b83-a9b9-1a15cb5f254c>)

@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "xxx' Project Lab"
+  title: "Mission_Prediction Project Page"
   navbar:
     search: true
     left:
@@ -17,7 +17,7 @@ website:
             
     tools:
       - icon: github
-        href: https://twitter.com
+       # href: https://twitter.com
 
   page-navigation: true
   back-to-top-navigation: true
