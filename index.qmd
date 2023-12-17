@@ -1,13 +1,9 @@
 ---
 title: "Mission Prediction"
-sidebar: false 
+sidebar: no
 ---
 
 This is our project webpage.
-
-Please stay tuned to follow our project activities.
-
-This is our template.
 
 # Team Members
 
